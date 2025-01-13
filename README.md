@@ -1,7 +1,3 @@
-# Web-Application-Mimicking-Google-Sheets
-Develop a web application that closely mimics the user interface and core functionalities of Google Sheets, with a focus on mathematical and data quality functions, data entry, and key UI interactions
-
-
 # Google Sheets Clone
 
 ## Overview
@@ -104,4 +100,3 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 ---
 
 Thank you for exploring this Google Sheets clone! We hope you enjoy using it as much as we enjoyed building it.
-
